@@ -360,3 +360,12 @@ input[type="submit"] {
     top: 50%;
     transform: translateY(-50%);
 }
+#contact .info {
+  	margin: 30px auto 0;
+  	max-width: 400px;
+  	text-align: left;
+}
+
+#contact .info p {
+  	margin: 4px 0;
+}
